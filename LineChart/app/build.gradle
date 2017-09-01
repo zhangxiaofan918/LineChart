@@ -26,5 +26,5 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.0.0-alpha2'
     testCompile 'junit:junit:4.12'
-    compile files('/Users/zhangxiaofan/Documents/GitSource/PullZoomView/LineChart/libs/mpandroidchartlibrary-2-2-4.jar')
+    compile files('libs/mpandroidchartlibrary-2-2-4.jar')
 }
